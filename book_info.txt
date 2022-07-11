@@ -1,0 +1,16 @@
+1,Fantasy,Harry Potter,J.K.Rowling,28,04-05-2019,0
+2,Fantasy,Percy Jackson,Rick Riordan,28,11-02-2020,0
+3,Fantasy,American Gods,Neil Gaiman,28,23-02-2020,0
+4,Fantasy,Song of Ice and Fire,George R. R. Martin,28,16-06-2020,ssha
+5,Fantasy,Lord of the Rings,J. R. R. Tolkien,28,24-07-2020,0
+6,Educational,Machine Learning For Dummies,John Mueller,7,07-09-2020,0
+7,Educational,Artificial Intelligence For Dummies,John Mueller,7,29-09-2020,0
+8,Educational,Deep Learning For Dummies,John Mueller,7,10-10-2020,ssha
+9,Educational,The Art of Computer Programming,Donald Knuth,7,25-11-2020,0
+10,Autobiography,Steve Jobs,Walter Isaacson,28,29-12-2020,0
+11,Autobiography,Wings of Fire,A. P. J. Abdul Kalam,28,14-02-2021,0
+12,Autobiography,Satya ke Prayog,Mahatma Gandhi,28,14-02-2021,0
+13,Motivation and Self-help,How to win friends and influence people,Dale Carnegie,7,23-04-2021,0
+14,Motivation and Self-help,Atomic Habits,James Clear,7,24-05-2021,ssha
+15,Motivation and Self-help,The Secret,Rhonda Byrne,7,17-07-2021,0
+16,Motivation and Self-help,12 Rules for Life,Jordan Peterson,7,17-08-2021,0
