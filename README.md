@@ -5,7 +5,7 @@ Python Project for MSc Advance Computer Science python module
 #Author : Siddharth Shaligram
 
 Please run the program in full screen
-
+#Start Program - create env and install all the libraries and run menu.py
 #Initialization Process
 	1)To Initise the project select file (from top left corner) -> Initilize
 	2)use the reset button to drop all the tables except the image ones and then do step 1 again to reinitialize
